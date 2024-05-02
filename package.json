@@ -1,6 +1,6 @@
 {
   "name": "@kollorg/legendary-robot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -494,5 +494,14 @@
   "homepage": "https://github.com/kollorg/legendary-robot/#readme",
   "bugs": {
     "url": "https://github.com/kollorg/legendary-robot/issues"
+  },
+  "dependencies": {
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   }
 }
