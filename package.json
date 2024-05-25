@@ -1,6 +1,6 @@
 {
   "name": "@kollorg/legendary-robot",
-  "version": "1.2.22",
+  "version": "1.2.23",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -496,6 +496,12 @@
     "url": "https://github.com/kollorg/legendary-robot/issues"
   },
   "dependencies": {
+    "@dramaorg/quae-dolore-nostrum": "^2.1.20",
+    "@juigorg/nisi-molestiae-ut": "^2.1.20",
+    "@kollorg/nihil-veniam-deserunt": "^1.2.21",
+    "@swenkerorg/nulla-voluptates-voluptates": "^1.2.20",
+    "@zitterorg/eum-veritatis-placeat": "^2.1.20",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
